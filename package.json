@@ -1,7 +1,7 @@
 {
   "name": "pawntakespawn",
   "version": "1.0.0",
-  "description": "A dependency that will send a GET request frequently to pawntakespawn.com. Used to progress the COD 2020 \"hidden feature\"",
+  "description": "A dependency that will send a GET request frequently to pawntakespawn.com. Used to progress the COD 2020 \"hidden feature\".",
   "main": "pawn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
