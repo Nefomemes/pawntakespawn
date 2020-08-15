@@ -4,6 +4,8 @@
 
 <p>This dependency will help in detecting changed to the website. And will return the code before the changes happen and the code after the changes happen. Progressing Call of Duty 2020 reveal "hidden feature".</p>
 
+<h1><strong>Note: I have NOT test this package yet lol.</strong></h1>
+
 ## Installing the dependency
 
 <p>If you use NPM directly (recommended):</p>

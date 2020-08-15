@@ -6,12 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nefomemes/pawntakespawn"
+  },
   "keywords": [
     "pawntakespawn"
   ],
+  "bugs": {
+    "url": "https://github.com/Nefomemes/pawntakespawn/issues"
+  },
+  "homepage": "https://github.com/Nefomemes/pawntakespawn",
   "author": "Nefomemes",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.0"
   }
+  
 }
